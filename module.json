@@ -1,0 +1,18 @@
+{
+    "id": "raan-compendium-pf2e",
+    "title": "Raan Compendium for Pathfinder 2E",
+    "description":"A module containing resources for the Raan Campaign World.",
+    "authors": [
+        {
+            "name":"Shado"
+        }
+        
+    ],
+    "version":"0.0.1",
+    "compatibility": {
+        "minimum":"9",
+        "verified":"10"
+    },
+    "url":"https://github.com/Omnisect/raan-compendium-pf2e.git",
+    "manifest":"https://github.com/Omnisect/raan-compendium-pf2e/module.json"
+}
