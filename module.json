@@ -13,6 +13,18 @@
         "minimum":"9",
         "verified":"10"
     },
-    "url":"https://github.com/Omnisect/raan-compendium-pf2e.git",
-    "manifest":"https://github.com/Omnisect/raan-compendium-pf2e/module.json"
+    "packs":[
+        {
+            "name": "raan-roll-tables",
+            "label": "Raan Roll Tables",
+            "type": "RollTable",
+            "path": "packs/raan-roll-tables.db",
+            "entity": "RollTable",
+            "module": "raan-game-world-shared-compendium"
+        }
+    ],
+    "url":"https://github.com/Omnisect/raan-compendium-pf2e",
+    "bugs":"https://github.com/Omnisect/raan-compendium-pf2e/issues",
+    "readme":"https://github.com/Omnisect/raan-compendium-pf2e/blob/main/README.md",
+    "manifest":"https://github.com/Omnisect/raan-compendium-pf2e/releases/latest/download/module.json"
 }
